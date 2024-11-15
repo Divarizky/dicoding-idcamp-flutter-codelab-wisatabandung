@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# dicoding-idcamp-flutter-codelab-wisatabandung
-=======
-# wisatabandung
 
-A new Flutter project.
->>>>>>> 188f3f9 (codelab-1)
+# Latihan dari Materi Dicoding "Belajar Membuat Aplikasi Flutter untuk Pemula"
+
+## aplikasi sederhana wisatabandung
+
