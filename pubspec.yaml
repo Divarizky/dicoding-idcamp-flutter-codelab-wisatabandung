@@ -1,6 +1,6 @@
 name: wisatabandung
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -18,7 +18,14 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
+  assets:
+    - images/
+
   fonts:
-  - family: Oswald
-    fonts:
-      - asset: fonts/Oswald/Oswald-Regular.ttf
+    - family: Oswald
+      fonts:
+        - asset: fonts/Oswald/Oswald-Regular.ttf
+
+    - family: Nunito_Sans
+      fonts:
+        - asset: fonts/Nunito_Sans/NunitoSans_10pt-Regular.ttf
